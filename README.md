@@ -75,7 +75,7 @@ A **Logistic Regression** model was chosen due to its simplicity and effectivene
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/your-username/diabetes_prediction.git
+   git clone https://github.com/nayana1507/diabetes_prediction.git
    cd diabetes_prediction
    ```
 
